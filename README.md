@@ -1,2 +1,3 @@
 # star-parallax
-generation of the starry sky
+Generation of the starry sky
+HTML/CSS/JS
